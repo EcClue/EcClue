@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 This is my cabinet ,a well-organized space where creativity and functionality blend perfectly. Each drawer is filled with unique components, from algorithms that improve efficiency to user interfaces that enhance the experience. My passion for programming shines through in every line of code as I strive to create software that not only solves problems but also inspires innovation. Join me on this journey into the complexity of programming, where every project is a new adventure waiting to unfold.
 
