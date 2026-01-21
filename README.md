@@ -1,7 +1,11 @@
-## Hi Everyone 👋 I'm Eric Wong !!
+## Hi Everyone 👋 I'm KH Wong(Eric) !!
 
 This is my cabinet ,a well-organized space where creativity and functionality blend perfectly. Each drawer is filled with unique components, from algorithms that improve efficiency to user interfaces that enhance the experience. My passion for programming shines through in every line of code as I strive to create software that not only solves problems but also inspires innovation. Join me on this journey into the complexity of programming, where every project is a new adventure waiting to unfold.
 
+
+<div style="color: blue;">
+  <span style="color: blue;"><a href="https://www.linkedin.com/in/eric-wong-69b511375/">Linkedin</a></span>
+</div>
 <div style="color: blue;">
   <span style="color: blue;"><a href="https://stackoverflow.com">stackover flow</a></span>
 </div>
